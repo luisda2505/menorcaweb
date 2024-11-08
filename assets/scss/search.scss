@@ -1,0 +1,15 @@
+.d-search{
+    position: relative;
+    input{
+        width: 280px;
+        height: 45px;
+        border: 1px solid #c4c4c4;
+        padding: 0.5rem;
+    }
+    i{
+        position: absolute;
+        top: 20px;
+        right: 15px;
+        font-size: 18px;
+    }
+}
